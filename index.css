@@ -20,6 +20,11 @@ a {
     width: auto;
 }
 
+#icecream {
+    height: 250px;
+    width: auto;
+}
+
 .banner {
     background-color: beige;
     text-align: center;
