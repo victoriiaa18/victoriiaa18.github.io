@@ -1,0 +1,37 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+  }
+
+h1 {
+    color: SeaGreen;
+  }
+   
+p, 
+li {
+    font-size: 18px;
+  }
+   
+a {
+    text-decoration: none;
+  }
+
+#victoria-me {
+    height: 250px;
+    width: auto;
+}
+
+.banner {
+    background-color: beige;
+    text-align: center;
+    padding: 80px 0;
+    margin: 10px;
+    border: 2px solid seagreen;
+}
+
+.fun-facts {
+    background-color: beige;
+    color: seagreen;
+    width: 500px;
+    border: 2px solid seagreen;
+    padding-left: 10px;
+}
