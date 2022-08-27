@@ -28,7 +28,7 @@ a {
 }
 
 #icecream {
-    height: 250px;
+    height: 400px;
     width: auto;
 }
 
@@ -45,7 +45,6 @@ a {
 .fun-facts {
     background-color: beige;
     color: seagreen;
-    width: 500px;
     border: 2px solid seagreen;
     padding-left: 10px;
 }
